@@ -1,0 +1,19 @@
+{
+  "name": "newDatePicker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "Katie ONeill <katie@k80oneill.com> (k80oneill.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "date-fns": "^2.16.1"
+  }
+}
